@@ -1,0 +1,44 @@
+{
+    "current_queues": {
+        "Window 1": {
+            "now_serving": "A04",
+            "next_number": "A05"
+        }
+    },
+    "queue_history": [
+        {
+            "window": "Window 1",
+            "number": "A01",
+            "timestamp": "2026-03-13 04:13:05"
+        },
+        {
+            "window": "Window 1",
+            "number": "A02",
+            "timestamp": "2026-03-13 04:13:21"
+        },
+        {
+            "window": "Window 1",
+            "number": "A03",
+            "timestamp": "2026-03-13 04:13:36"
+        },
+        {
+            "window": "Window 1",
+            "number": "A01",
+            "timestamp": "2026-03-13 04:14:03",
+            "is_recall": true
+        },
+        {
+            "window": "Window 1",
+            "number": "A04",
+            "timestamp": "2026-03-13 04:14:15"
+        }
+    ],
+    "next_queue_numbers": {
+        "Window 1": 5,
+        "Window 2": 1,
+        "Window 3": 1,
+        "Window 4": 1,
+        "Window 5": 1
+    },
+    "last_reset": 1773370280
+}

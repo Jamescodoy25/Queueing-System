@@ -1,0 +1,44 @@
+[
+    {
+        "username": "admin",
+        "password": "$2y$10$VKG7dgbFyp\/IIbF4.0pEZ.XE3\/oXFAWfRziisrStaFV7q6zkM663S",
+        "role": "admin",
+        "window": null
+    },
+    {
+        "username": "cashier1",
+        "password": "$2y$10$kGomQVW1zypZiqIV7hpL5unvcvY4H82ge7j3JjVRnSld2yrhoEnui",
+        "role": "cashier",
+        "window": "Window 1"
+    },
+    {
+        "username": "cashier2",
+        "password": "$2y$10$4pJC4d1PrefUhBKzFU9R3umggfdOVq07nyAgsNElSUQYtXSCG1NAi",
+        "role": "cashier",
+        "window": "Window 2"
+    },
+    {
+        "username": "cashier3",
+        "password": "$2y$10$MXNu\/nWRd.DIipevIxir7OSQ.X1zic8aPJA4gsalG3ZN7CeOlxkjS",
+        "role": "cashier",
+        "window": "Window 3"
+    },
+    {
+        "username": "cashier4",
+        "password": "$2y$10$u9ctkH2TqRSkCJcpNDiI4.w9O6.R.c\/g4HYjwz\/5vS3i5uWZ1MdH2",
+        "role": "cashier",
+        "window": "Window 4"
+    },
+    {
+        "username": "cashier5",
+        "password": "$2y$10$LB\/4thyBnydexYUXzkFzIultZ9s0Xu0IaX4044JEjwyRocVg4W6ce",
+        "role": "cashier",
+        "window": "Window 5"
+    },
+    {
+        "username": "James",
+        "password": "$2y$10$NJqAj8YlrwmKjmjpy.rei.4wG.jLPuOrYK.N\/lvf3Ev\/vGl0pq0bO",
+        "role": "admin",
+        "window": null
+    }
+]

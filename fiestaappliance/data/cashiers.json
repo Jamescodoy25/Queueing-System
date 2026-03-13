@@ -1,0 +1,22 @@
+[
+    {
+        "username": "cashier1",
+        "window": "Window 1"
+    },
+    {
+        "username": "cashier2",
+        "window": "Window 2"
+    },
+    {
+        "username": "cashier3",
+        "window": "Window 3"
+    },
+    {
+        "username": "cashier4",
+        "window": "Window 4"
+    },
+    {
+        "username": "cashier5",
+        "window": "Window 5"
+    }
+]
